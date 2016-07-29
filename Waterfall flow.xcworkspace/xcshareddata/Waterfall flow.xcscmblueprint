@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4775DAED9E125746BAF3A618E3770684509B0DCE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "176AC22B248DFBADE478B473A08831E73253E158" : 0,
+    "04101981B66E318109934C9516F88D824BB96459" : 0,
+    "4775DAED9E125746BAF3A618E3770684509B0DCE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "719D510E-DC1F-4A0C-A716-5B4C569B6254",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "176AC22B248DFBADE478B473A08831E73253E158" : "Waterfall%20flow\/Waterfall%20flow\/Summer\/fansApp\/",
+    "04101981B66E318109934C9516F88D824BB96459" : "Waterfall%20flow\/Waterfall%20flow\/Summer\/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93%E6%96%87%E4%BB%B6\/%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6\/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93\/%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AC%AC%E4%B8%89%E6%96%B9fmdb\/",
+    "4775DAED9E125746BAF3A618E3770684509B0DCE" : "Waterfall%20flow\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Waterfall flow",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Waterfall flow.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ccgus\/fmdb.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "04101981B66E318109934C9516F88D824BB96459"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "101.200.158.171:family\/fans-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "176AC22B248DFBADE478B473A08831E73253E158"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.oschina.net:MangoFoot\/Waterfall-flow.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4775DAED9E125746BAF3A618E3770684509B0DCE"
+    }
+  ]
+}
